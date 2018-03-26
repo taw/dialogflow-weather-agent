@@ -1,0 +1,194 @@
+[
+  {
+    "id": "dc035120-0da6-4a85-9822-793e67369237",
+    "data": [
+      {
+        "text": "what\u0027s the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522089015
+  },
+  {
+    "id": "6345356e-67d2-424a-ab8c-b94d6122a6a8",
+    "data": [
+      {
+        "text": "weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "london",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "d66888c3-6873-43c6-ab37-b9988ffec9e0",
+    "data": [
+      {
+        "text": "what is the weather going to be next week?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "26914ba4-2749-4c43-8323-bc42fdb446b9",
+    "data": [
+      {
+        "text": "what is the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "83db2dfb-9a23-446d-be8b-49e74f0fdd21",
+    "data": [
+      {
+        "text": "what is the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "next tuesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "6c61dfee-e7ad-4be4-a3ba-b514881d0b25",
+    "data": [
+      {
+        "text": "Weather forecast in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "1335bc60-2630-4da1-8bb8-8bf9762765f5",
+    "data": [
+      {
+        "text": "Weather for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "83afb74d-9fd5-4ead-afcd-d23b76bbfdab",
+    "data": [
+      {
+        "text": "What is the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "1c6bea51-9318-4e02-aa2a-3d9cffb4881a",
+    "data": [
+      {
+        "text": " Weather forecast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "0a0935b9-45e6-4f4f-add0-ea8a49964470",
+    "data": [
+      {
+        "text": "What is the weather supposed to be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  },
+  {
+    "id": "0a523afd-fa9a-4978-aae3-a926f831f82c",
+    "data": [
+      {
+        "text": "What is the weather like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089015
+  }
+]

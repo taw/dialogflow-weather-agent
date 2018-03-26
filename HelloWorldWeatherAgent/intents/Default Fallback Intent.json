@@ -1,0 +1,50 @@
+{
+  "id": "b617b7f9-194d-4129-b857-40fd456a90b4",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. Say it again?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that.",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that again?",
+            "I didn\u0027t get that.",
+            "I missed that."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I don\u0027t understand what you\u0027re saying. You can say things like \"What\u0027s the weather in Paris today?\" to get the weather forecast.",
+            "I didn\u0027t understand. Can you try again?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522089267,
+  "fallbackIntent": true,
+  "events": []
+}

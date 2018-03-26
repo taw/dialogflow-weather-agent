@@ -1,0 +1,56 @@
+{
+  "id": "5019769c-7496-4dd9-ad30-f7b148b4da6f",
+  "name": "weather.context",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "01d84ed4-2ffd-41fc-9b19-95445c9539d3",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "cd6afd46-dff2-4742-b792-bd5c93d2ac47",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "d8ae1035-0b0b-4884-b74e-de5f7c92bf74",
+          "name": "geo-city",
+          "value": "#location.geo-city"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry I don\u0027t know the weather for $date-period in #location.geo-city"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522089188,
+  "fallbackIntent": false,
+  "events": []
+}

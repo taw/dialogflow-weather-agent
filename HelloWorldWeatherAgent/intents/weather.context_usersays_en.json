@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d76f0879-c6fb-4f73-989c-71f6842f958a",
+    "data": [
+      {
+        "text": "What about ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522089188
+  },
+  {
+    "id": "41af141f-ab26-4633-89fe-daf463099d65",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522089188
+  }
+]
